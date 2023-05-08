@@ -160,3 +160,26 @@ hr {
 .cart-bump input[type=checkbox] {
 	margin-right: .5rem;
 }
+
+.color0 button.buy {
+	background-color: var(--color0-accent);
+}
+.color0 .payment-options {
+	background-color: var(--color0-accent);
+}
+.color0 .payment-option {
+	background-color: var(--color0-bg);
+}
+.color0 .priceShow {
+	color: var(--color0-accent2);
+}
+.color1 .cart-action {
+	border-color: var(--color1-text);
+}
+.color1 .payment-container #submit {
+	background-color: var(--color1-bg);
+	color: var(--color1-text);
+}
+.buying-container .columns.color1 .column-left {
+	background-color: var(--color0-bg);
+}
